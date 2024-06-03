@@ -1,7 +1,7 @@
-import Navbar from '@/components/templates/navbar/navbar'
+import Navbar from '@/components/modules/Navbar/navbar'
 import React from 'react'
 import { layoutPropsType } from './layout.types'
-import Footer from '@/components/templates/footer/footer'
+import Footer from '@/components/modules/Footer/footer'
 
 
 

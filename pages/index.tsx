@@ -1,5 +1,4 @@
-
-import Carousel from "@/components/templates/Home/carousel";
+import Carousel from "@/components/templates/Home/slider";
 import About from "@/components/templates/Home/about";
 import Service from "@/components/templates/Home/service";
 import Offer from "@/components/templates/Home/offer";
